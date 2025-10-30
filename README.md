@@ -39,9 +39,16 @@
 <div>
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="instagram logo"  />
   <img width="12" />
+</div>
+
+<div>
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="35" alt="discord logo"  />
   <img width="12" />
+</div>
+
+<div>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img width="12" />
 </div>
 
 ###
