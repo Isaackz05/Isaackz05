@@ -15,8 +15,6 @@
 
 <br clear="both">
 
-/*align="center"*/
-
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
